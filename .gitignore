@@ -1,0 +1,16 @@
+# npm debugging logs
+*.log*
+# project dependencies
+node_modules
+# OSX folder attributes
+.DS_Store
+# temporary files
+*.tmp
+*~
+
+#ES6 & ES5 directories
+dist
+public/dist
+Notes
+Udemy
+web_dev_Notes
